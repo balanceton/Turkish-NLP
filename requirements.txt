@@ -1,0 +1,7 @@
+spacy
+transformers
+jpype1
+zemberek-python
+torch
+networkx
+matplotlib
