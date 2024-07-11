@@ -3,20 +3,6 @@
 
 This project is focused on **Character Detection and Classification of Relationships in Turkish Texts**. It identifies characters in texts, analyzes relationships between these characters, and performs sentiment analysis. The results are visualized on a graph.
 
-## Project Structure
-
-
-Turkish-NLP/src/
-│
-├── init.py
-├── character_extraction.py
-├── main.py
-├── preprocessing.py
-├── relationships.py
-├── sentiment_analysis.py
-└── visualization.py
-
-
 ## Requirements
 
 - Python 3.7 or higher
