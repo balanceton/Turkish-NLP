@@ -5,6 +5,7 @@ This project is focused on **Character Detection and Classification of Relations
 
 ## Project Structure
 
+
 Turkish-NLP/src/
 │
 ├── init.py
@@ -14,6 +15,7 @@ Turkish-NLP/src/
 ├── relationships.py
 ├── sentiment_analysis.py
 └── visualization.py
+
 
 ## Requirements
 
