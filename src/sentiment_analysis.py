@@ -1,4 +1,3 @@
-# sentiment_analysis.py
 from transformers import pipeline
 
 class SentimentAnalyzer:
